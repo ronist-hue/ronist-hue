@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./cover.png" width="100%" alt="Ronjon Sarker">
+</p>
 <h1 align="center">👋 Hi, I'm Ronjon Sarker</h1>
 
 <h3 align="center">
