@@ -127,24 +127,15 @@ grow as a software developer.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronist-hue&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronist-hue&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=ronist-hue&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ronist-hue&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="YOUR_ACTIVITY_GRAPH" />
-</p>
-
-<p align="center">
-  <img src="YOUR_PROFILE_VIEWS" />
-</p>
-
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ronist-hue&theme=tokyo-night&hide_border=true)
 
 ## 📫 Connect With Me
 
