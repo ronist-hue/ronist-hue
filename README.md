@@ -119,10 +119,29 @@ grow as a software developer.
 
 ---
 
-## 🔥 GitHub Streak
+## 🏆 GitHub Achievements
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ronist-hue&theme=tokyonight&hide_border=true" />
+  <img src="YOUR_STATS_CARD" />
+  <img src="YOUR_LANGUAGE_CARD" />
+</p>
+
+<p align="center">
+  <img src="YOUR_STREAK_CARD" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="YOUR_ACTIVITY_GRAPH" />
+</p>
+
+<p align="center">
+  <img src="YOUR_PROFILE_VIEWS" />
 </p>
 
 ---
