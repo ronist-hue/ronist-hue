@@ -121,18 +121,18 @@ grow as a software developer.
 
 ## 🏆 GitHub Achievements
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ronist-hue&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="YOUR_STATS_CARD" />
-  <img src="YOUR_LANGUAGE_CARD" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronist-hue&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronist-hue&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="YOUR_STREAK_CARD" />
-</p>
+---
 
 ## 📈 Contribution Graph
 
