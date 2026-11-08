@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=220&section=header&text=Ronjon%20Sarker&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
-<h1 align="center">👋 Hi, I'm Ronjon Sarker</h1>
 
 <h3 align="center">
 Computer Science & Engineering Student | Aspiring Software Developer
